@@ -4,7 +4,7 @@ Refresh Current Fragment within ViewPager when user swipes viewPager.
 If you need more, you can check **[this post](http://thedeveloperworldisyours.com/android/update-fragment-viewpager/#sthash.za1ZxJk5.dpbs")**
  
 <p align="center">
- <img src="https://github.com/CabezasGonzalezJavier/RefreshCurrentFragmentWithinViewPager/blob/master/RefreshFragmentViewPager.gif" width="300px" />
+ <img src="https://github.com/CabezasGonzalezJavier/RefreshCurrentFragmentWithinViewPager/blob/master/refresFragmentViewPage.gif" width="300px" />
 </p>
 
 Also visit my blog: **[The developer world is yours](http://thedeveloperworldisyours.com/)**
